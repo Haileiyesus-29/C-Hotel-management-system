@@ -1,0 +1,5 @@
+pasta,f,150,87523
+pizza,f,350,94518645
+burger,f,500,46598
+cocacola,d,30,87
+pasta,f,150,864531

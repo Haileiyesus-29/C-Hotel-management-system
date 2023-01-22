@@ -1,0 +1,5 @@
+pasta,f,120,150,0
+wine,d,65,600,0
+burger,f,450,500,0
+pizza,f,60,350,0
+cocacola,d,200,30,0

@@ -1,0 +1,5 @@
+Kebede Tolla,Ethiopia,M,12,094123654,600,98465
+Tigist Tesfaye,Ethiopian,F,33,0946313281,600,3547866
+Teddy Afro,Ethiopian,M,115,911223344,800,465321
+Jason Beres,England,M,65,095446688,800,3164578
+Shai Chung,Chinese,F,44,987445566,800,456121
